@@ -2,13 +2,13 @@ export const songList = [
     {
         img: 'music/cover/about.jpg',
         name: 'About You',
-        music: 'music/songs/About You.mp3',
+        music: 'music/songs/About_You.mp3',
         artist:"The 1975"
     },
     {
         img: 'music/cover/its.jpg',
         name: 'Its Not Living',
-        music: 'music/songs/Its Not Living (If Its Not With You).mp3',
+        music: 'music/songs/Its_Not_Living.mp3',
         artist:"The 1975"
     },
     {
